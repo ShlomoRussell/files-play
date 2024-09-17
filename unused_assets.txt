@@ -1,0 +1,81 @@
+Unused asset files:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/100-stacked-bars.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/100-stacked-columns.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/Vulcan-Loader-white.gif
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/add_icon.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/akamai.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/arrow_back.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/asset_icons/cloud_resource.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/asset_icons/code_project.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/asset_icons/host.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/asset_icons/repository.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/asset_icons/website.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/bar-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/bubble-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/close_tag_manager.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/clustered-bar.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/clustered-column.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/collapse_down.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/collapse_up.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/column-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/download-pdf.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/entrust.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/google.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/host.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/hot-threats.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/kering.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/left_arrow.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/line-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/line-clustered-column.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/line-stacked-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/log4j.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/done.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/error.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/failed.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/in_progress.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/pending.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/queued.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/skipped.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/succeeded.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/warning.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/microsoft ad.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/netiq.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/okta.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/onelogin.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/open_tag_manager.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/packages_clusters.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/paper.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/pie-chart.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/ping one.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/pivot.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/qualys_logo_slogan.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/question_mark.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/rapid7_logo_slogan.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/refresh_icon.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/remediation_campign_empty.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/reorder-widgets.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/right_arrow.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Asset impact.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Critical.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Exploit Maturity.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/High.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Insights.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Low-new.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Low.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Max Risk.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Medium.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/None.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Resources.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Risk.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Score.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Threats & Vulnerability Tags.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Threats.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Unknown.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/sla-breaching.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/table.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/tenable_logo_slogan.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/upload_file.png
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/upload_file.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/white_vulcan_logo.svg
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/login_background.png
+Total unused files deleted: 79

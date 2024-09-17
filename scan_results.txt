@@ -1,0 +1,81 @@
+File type counts:
+: 1
+.mp4: 1
+.scss: 17
+.html: 2
+.svg: 107
+.png: 183
+.gif: 4
+.css: 5
+.eot: 1
+.ttf: 1
+.woff: 1
+.woff2: 1
+
+Total: 324
+
+Duplicate files:
+
+Files with hash 64bb6e3a918c343de8ad7279e60528c0:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/bugcrowd.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/bugcrowdcsv.png
+
+Files with hash f6e508e34321fbc893806fd79104d682:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/edit_risk.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/remediation_actions_icons/edit_risk.png
+
+Files with hash fe66a79a4a2bf5c1260826e32112c53f:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/fortifydast.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/fortifysast.png
+
+Files with hash 3f3f8b8c654b23d9374435e00f07342b:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/github.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/github_code_scanning.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/github_dependabot.png
+
+Files with hash 88030e864adb4a11c6a2e6c7d033caa5:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/hackerone.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/hackeronecsv.png
+
+Files with hash cc37dd573025d4b1bac008f654104e9a:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/microsoftdfc.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/microsofttvm.png
+
+Files with hash d72d5b42b0b2acf9b0cb688bd0be7a09:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/nessusreport.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/tenable.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/tenablesc.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/tenablewas.png
+
+Files with hash 161e383f47044236a473cece034b5700:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/qualys.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/qualyswas.png
+
+Files with hash a5613f9b9b686ca6a23fb0caf13967e0:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/shiftleft_sast.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/shiftleft_sca.png
+
+Files with hash fd0b8364bd3b0f382a30d3da96e67853:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/veracode.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/connectors_icons/veracode_sca.png
+
+Files with hash bb84df8724038152100afab1d411d021:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/done.svg
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/succeeded.svg
+
+Files with hash 2fad6a96ccf798bcb4cd6e32027fa3c2:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/in_progress.svg
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/logs_icons/queued.svg
+
+Files with hash 618a7fa96b9341ac565ed4b168c0975c:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Max Risk.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Risk.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Score.png
+
+Files with hash bfb3e46f32435249b74d4ae81a574a3e:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Threats & Vulnerability Tags.png
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/icons/risk_card_icons/Threats.png
+
+Files with hash 9751cca4d32efee2b0b6c6ab88e008f0:
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/svg-icons/cloud_resource.svg
+- /Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/assets/svg-icons/cloud_resourse.svg

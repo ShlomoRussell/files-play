@@ -1,0 +1,142 @@
+SVG Usage Log:
+
+SVG: empty-notification.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/standalone-components/v-notification-panel/v-notification-panel.component.html
+
+SVG: assets_funnel_background.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/reduction-flow/reduction-flow.component.scss
+
+SVG: bad_spr.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/system-stats-block/system-stats-block.component.ts
+
+SVG: card.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-v2-report-card/analytics-v2-report-card.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/vulcan-ui/components/vulcan-card/vulcan-card.component.ts
+
+SVG: cisa-threats.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/vulns-threats-data/vulns-threats-data.component.ts
+
+SVG: close.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-reports-layout/analytics-reports-layout.component.ts
+
+SVG: cog.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/notification/notifiers/report-picker/report-picker/report-picker.component.ts
+
+SVG: dark_vulcan_logo.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/unsupported-message/unsupported-message.component.html
+
+SVG: default_report_avatar.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-v2-report-card/analytics-v2-report-card.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/vulcan-ui/components/vulcan-card/vulcan-card.component.ts
+
+SVG: descendants.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/settings/business-groups/app-business-group-expand-children/app-business-group-expand-children.component.ts
+
+SVG: drag-icon.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/analytics/analytics-reports-creation/analytics-reorder-widgets-modal/analytics-reorder-widgets-modal.component.html
+
+SVG: empty-report.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-reports-creation-v2/analytics-reports-creation-v2.component.html
+
+SVG: exploitable-threats.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/vulns-threats-data/vulns-threats-data.component.ts
+
+SVG: fixed_assets.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/dashboard-new-gen.component.scss
+
+SVG: funnel_background.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/reduction-flow/reduction-flow.component.scss
+
+SVG: good_spr.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/system-stats-block/system-stats-block.component.ts
+
+SVG: horizontal-lines.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/analytics/analytics-reports-creation/analytics-reports-creation.component.html
+
+SVG: hot-threats-new.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/vulns-threats-data/vulns-threats-data.component.ts
+
+SVG: hot_vuln_banner.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/dashboard-new-gen.component.scss
+
+SVG: new-v-icon.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/analytics/analytics-reports-creation/public-reports.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/analytics/report-card/report-card.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/vulnerabilities/vulnerability-details/vuln-tabs/vulnerability-threats-intelligence/vulnerability-threats-intelligence-v2.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/vulnerabilities/vulnerability-details/vuln-tabs/vulnerability-threats-intelligence/vulnerability-threats-intelligence.component.ts
+
+SVG: plus-icon.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-v2-add-report/analytics-v2-add-report.component.html
+
+SVG: request-new-widget.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/analytics/analytics-reports-creation/analytics-request-new-widget/analytics-request-new-widget.ts
+
+SVG: resize.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-reports-layout/analytics-reports-layout.component.ts
+
+SVG: round_background.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/connectors/connector-details/connectors-details-title/connectors-details-title.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/connectors-v2/connector-title/connector-title.component.ts
+
+SVG: rounded-logo-background.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/vulnerabilities/vulnerability-details/vuln-tabs/vulnerability-threats-intelligence/ti-panel-section/ti-panel-section.component.ts
+
+SVG: vulcan_custom_report_card.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/analytics-v2/components/analytics-v2-report-card/analytics-v2-report-card.component.ts
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/vulcan-ui/components/vulcan-card/vulcan-card.component.ts
+
+SVG: vulnerable_assets.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/dashboard-new-gen.component.scss
+
+SVG: vulns_funnel_background.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/dashboard/dashboard-new-gen/reduction-flow/reduction-flow.component.scss
+
+SVG: logo.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/components/unsupported-message/unsupported-message.component.html
+
+SVG: Attack.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/apg-view/components/apg-details/attack-path/node-info/node-info.component.html
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/apg-view/components/apg-details/attack-path/vulcan-network-graph/vulcan-network-graph.component.ts
+
+SVG: bug-vulns.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/views/apg-view/components/apg-details/attack-path/vulcan-network-graph/vulcan-network-graph.component.ts
+
+SVG: vulcanSignInLogo.svg
+Used in:
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/auth/components/forgot-password/forgot-password-v2.component.html
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/auth/components/login/login-v2.component.html
+/Users/shlomo/Desktop/vulcan/vulcan_frontend/apps/main/src/app/auth/components/reset-password/reset-password-v2.component.html
+
+
+Total: 32
